@@ -19,7 +19,7 @@
     {
       "binding": "DB",
       "database_name": "shelfhost-db",
-      "database_id": "87ff6f6c-f0ff-418b-8d67-e0f72e487789",
+      "database_id": "",
       "migrations_dir": "migrations",
     },
   ],
